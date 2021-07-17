@@ -8,7 +8,5 @@ public class Main {
         Calculate.sortInAscendingOrderOfLine(array);
         Printer.printIntMatrix(array);
         System.out.println();
-        Calculate.sortInDescendingOrderOfLine(array);
-        Printer.printIntMatrix(array);
     }
 }
